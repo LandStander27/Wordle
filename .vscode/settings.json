@@ -1,0 +1,4 @@
+{
+      "python.envFile": "${workspaceFolder}/env",
+      "python.defaultInterpreterPath": "G:\\NewCode\\Wordle\\env\\Scripts\\pypy.exe"
+}
